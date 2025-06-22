@@ -2,6 +2,8 @@
 
 A full-stack MERN application demonstrating a complete authentication system with secure features like email verification, password reset, protected routes, and more.
 
+Project Demo : https://mern-advanced-auth-w3zw.onrender.com
+
 🧑‍💻 About This Project
 
 This project is built as part of a full authentication setup, covering:
