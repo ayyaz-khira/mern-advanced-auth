@@ -2,7 +2,7 @@
 
 A full-stack MERN application demonstrating a complete authentication system with secure features like email verification, password reset, protected routes, and more.
 
-🧑‍💻 About This Course / Project
+🧑‍💻 About This Project
 
 This project is built as part of a full authentication setup, covering:
 
