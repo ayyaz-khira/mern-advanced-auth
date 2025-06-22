@@ -1,3 +1,4 @@
+
 <h1 align="center">Advanced Auth Tutorial 🔒 </h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -57,3 +58,6 @@ npm run start
 ```
 
 ### I'll see you in the next one! 🚀
+
+# mern-advanced-auth
+
