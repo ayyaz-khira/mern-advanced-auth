@@ -1,73 +1,64 @@
-🔐 MERN Advanced Authentication
+# 🔐 MERN Advanced Authentication
 
-A full-stack MERN application demonstrating a complete authentication system with secure features like email verification, password reset, protected routes, and more.
+A full-stack MERN application demonstrating a **complete authentication system** with secure features like **email verification**, **password reset**, **protected routes**, and more.
 
-Project Demo : https://mern-advanced-auth-w3zw.onrender.com
+🔗 **Live Demo:** [https://mern-advanced-auth-w3zw.onrender.com](https://mern-advanced-auth-w3zw.onrender.com)
 
-🧑‍💻 About This Project
+---
 
-This project is built as part of a full authentication setup, covering:
+## 🧑‍💻 About This Project
 
-🔧 Backend setup
+This project includes a fully working authentication setup covering:
 
-🗄️ Database setup (MongoDB & Mongoose)
+### 🔧 Backend Functionality
 
-🔐 Signup endpoint
+- 🛠️ Backend & Database Setup (Node.js, Express.js, MongoDB with Mongoose)
+- 🔐 **Signup** with hashed passwords
+- 📧 **Verification Emails** using Nodemailer & Mailtrap
+- 📄 Welcome Email Templates
+- 🔑 **Login**, **Logout**, and **JWT Authentication**
+- 🔄 **Forgot & Reset Password** flows
+- ✔️ **Check Auth** API
 
-📧 Sending verification emails
+### 🌐 Frontend Features (React)
 
-🔍 Verify email endpoint
+- 📋 Signup UI
+- 🔓 Login UI
+- ✅ Email Verification UI
+- 🔒 Protected Routes
+- 🏠 Dashboard Page
+- 🔁 Forgot Password Flow
+- 📤 API Integration with Axios
+- 🎨 Smooth UI & UX with Tailwind + Framer Motion
 
-📄 Welcome email template
+---
 
-🚪 Logout endpoint
+## ✨ Features
 
-🔑 Login endpoint
+- ✅ User Signup with hashed password storage
+- ✅ JWT-based Authentication
+- ✅ Email Verification + Welcome Emails
+- ✅ Forgot and Reset Password Functionality
+- ✅ Role-Based Route Protection (optional)
+- ✅ Responsive UI (Mobile + Desktop)
+- ✅ Seamless error handling & loading indicators
 
-🔄 Forgot password endpoint
+---
 
-🔁 Reset password endpoint
+## 🧰 Tech Stack
 
-✔️ Check auth endpoint
+### 🔹 Frontend
+- React.js
+- Zustand (State Management)
+- Tailwind CSS
+- Axios
+- Framer Motion
 
-🌐 Frontend setup with React
+### 🔹 Backend
+- Node.js
+- Express.js
+- MongoDB + Mongoose
+- JWT (JSON Web Tokens)
+- Nodemailer + Mailtrap
 
-📋 Signup page UI
 
-🔓 Login page UI
-
-✅ Email verification page UI
-
-📤 Implementing signup & email verification
-
-🔒 Protecting routes on the frontend
-
-🏠 Dashboard page
-
-🔄 Implementing forgot password
-
-🚀 Super-detailed deployment instructions
-
-✨ Features
-
-✅ User signup with hashed passwords
-
-✅ JWT-based authentication
-
-✅ Email verification & welcome emails
-
-✅ Forgot & reset password flows
-
-✅ Role-based route protection
-
-✅ Responsive UI built with React + Tailwind
-
-✅ Seamless error handling and state management
-
-🧰 Tech Stack
-
-Frontend:
-React.js, Zustand, TailwindCSS, Axios, Framer Motion
-
-Backend:
-Node.js, Express.js, MongoDB, JWT, Nodemailer, Mailtrap
